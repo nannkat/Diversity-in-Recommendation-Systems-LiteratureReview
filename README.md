@@ -58,7 +58,7 @@ After my work over the last two weeks I have discovered that the problem of dive
 [[4]](https://about.instagram.com/blog/engineering/on-the-value-of-diversified-recommendations) A. Mahapatra, "On the Value of Diversified Recommendations",
 , <i>Instagram</i>, updated December 17, 2020, [Blog], Available: https://about.instagram.com/blog/engineering/on-the-value-of-diversified-recommendations [Accessed 09.09.2021]].<br>
 <a name="5"></a>
-[[5]](https://arxiv.org/abs/1902.10730) R. Jiang, S. Chiappa, T. Lattimore, A. György and P. Kohli, "Degenerate feedback loops in recommender systems", in <i>Proceedings of AAAI/ACM Conference on AI, Ethics, and Society, Honolulu, HI, USA, January 27-28, 2019</i>pp. 383-390.<br>
+[[5]](https://arxiv.org/abs/1902.10730) R. Jiang, S. Chiappa, T. Lattimore, A. György and P. Kohli, "Degenerate feedback loops in recommender systems", in <i>Proceedings of AAAI/ACM Conference on AI, Ethics, and Society, Honolulu, HI, USA, January 27-28, 2019</i> pp. 383-390.<br>
 <a name="6"></a>
 [[6]](https://www.sciencedirect.com/science/article/abs/pii/S0950705117300680) M. Kunaver and T. Pozrl, "Diversity in recommender systems – A survey", <i>Knowledge-Based Systems</i>, vol. 123, pp. 154-162, May 2017.[Online]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0950705117300680.<br>
 [[7]](https://www.mdpi.com/2076-3417/11/12/5390) V. Morini, L. Pollacci and  G. Rossetti, "Toward a Standard Approach for Echo Chamber Detection: Reddit Case Study", <i>Appl. Sci.</i> June 10, 2021.[Online]. Available: https://doi.org/10.3390/app11125390.
