@@ -40,17 +40,22 @@ Apart from studying papers, some open source resources for building recommendati
 - Build recommendation system with PyTorch from scratch: https://github.com/HarshdeepGupta/recommender_pytorch
 - [Collaborative filtering on MovieLens data](https://colab.research.google.com/drive/1It4mPMzbnhgWKLNS8w6ghJaFxn154crl?usp=sharing), article: [Recommendation System Implementation With Deep Learning and PyTorch](https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4)
 
-The Collaboraitve filtering on MovieLens data is provided in an .ipynb notebook and thus is easy to simulate, only needing a slight modification in the import part:
-
+The Collaboraitve filtering on MovieLens data is provided in an .ipynb notebook and thus easy to try out. It's worht noting it needed a slight modification in the import part.<br>
+<img src = "https://github.com/nannkat/EC601_Project_1/blob/main/pics/config_kaggle.png" width="400">
 
 The implementation takes on a very simplistic and traditional stance to recommendation of movie ratings. It formulates it as a classification problem to be solved by a neural net. In other words it trains a model that aims at accurately predicting a users rating of a certain movie, based on collaborative information on other users and movies. The more ratings the model gets correct, the more accurate (and good) it is deemed.
 
+<img src = "https://github.com/nannkat/EC601_Project_1/blob/main/pics/forward_pass.png" width="400">
+
 To deal with the fact that the MovieLens data is in natural language format, the author uses embedding tools provided by PyTorch to create an embedded neural net.
 
+<img src = "https://github.com/nannkat/EC601_Project_1/blob/main/pics/embedding_neural.png" width="400">
 
 I was unable to simulate the results fully, the training loop is designed so that if there is no improvement in validation loss for 10 epochs in a row, it breaks.
 
+<img src = "https://github.com/nannkat/EC601_Project_1/blob/main/pics/improvement_not_suff.png" width="400">
 
+<img src = "https://github.com/nannkat/EC601_Project_1/blob/main/pics/loop_breaks.png" width="400">
 
 Perhaps with more time I could have modified the code and gotten full results.
 
